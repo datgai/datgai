@@ -9,11 +9,9 @@
 <h1 align="center">Hi 👋, I'm Alex Chee</h1>
 <h3 align="center">Hard working and curious individual who enjoys learning from others from different cultures and backgrounds, trying out different things and exploring the world.🚀</h3>
 
-- 📫 How to reach me **alexcheekh@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alex-chee-kai-hong-96578119a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-chee-kai-hong-96578119a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alex-chee-kai-hong-96578119a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-chee-kai-hong-96578119a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
